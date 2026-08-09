@@ -4,6 +4,7 @@
 > *Analyzed $2.30M in revenue across 9,994 orders to uncover profit leakage, RFM customer segments, and discount-driven margin erosion.*
 
 [![Power BI](https://img.shields.io/badge/Power_BI-Desktop_&_DAX-F2C811?logo=powerbi&logoColor=black)](https://powerbi.microsoft.com/)
+[![Dashboard PDF](https://img.shields.io/badge/Dashboard_PDF-View_Visuals-yellow?logo=adobe-acrobat-reader&logoColor=black)](E-Commerce_Analytics_Dashboard.pdf)
 [![Python](https://img.shields.io/badge/Python-3.11-3776AB?logo=python&logoColor=white)](https://www.python.org/)
 [![SQL](https://img.shields.io/badge/SQL-Advanced_Queries-4479A1?logo=postgresql&logoColor=white)](sql/superstore_analysis.sql)
 [![Report](https://img.shields.io/badge/PDF_Report-Download-red?logo=adobe-acrobat-reader&logoColor=white)](Superstore_Executive_Report.pdf)
