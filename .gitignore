@@ -1,0 +1,28 @@
+# Data
+data/raw/*
+!data/raw/.gitkeep
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# Power BI local cache
+*.pbix.tmp
+.powerbi/
+
+# OS
+Thumbs.db
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
+
+# Outputs (regenerate via scripts)
+outputs/charts/*
+outputs/reports/*
+!outputs/charts/.gitkeep
+!outputs/reports/.gitkeep
