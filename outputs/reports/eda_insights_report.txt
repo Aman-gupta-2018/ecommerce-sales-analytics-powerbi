@@ -1,0 +1,111 @@
+
+============================================================
+  KEY BUSINESS INSIGHTS
+============================================================
+
+--- 1. Revenue & Profit Trends ---
+  YoY Growth 2014->2015: -2.8%
+  YoY Growth 2015->2016: +29.5%
+  YoY Growth 2016->2017: +20.4%
+
+--- 2. Category & Sub-Category Performance ---
+  Technology: Revenue=$836,154 | Profit=$145,455 | Margin=15.6%
+  Furniture: Revenue=$742,000 | Profit=$18,451 | Margin=3.9%
+  Office Supplies: Revenue=$719,047 | Profit=$122,491 | Margin=13.8%
+  LOSS-MAKING sub-categories: Tables, Bookcases, Supplies
+  Total losses: $-22,387
+
+--- 3. Regional Performance ---
+  West: Revenue=$725,458 | Profit=$108,418 | Margin=21.9%
+  East: Revenue=$678,781 | Profit=$91,523 | Margin=16.7%
+  Central: Revenue=$501,240 | Profit=$39,706 | Margin=-10.4%
+  South: Revenue=$391,722 | Profit=$46,749 | Margin=16.4%
+
+--- 4. Top & Bottom States ---
+  States with net loss: 10
+    Oregon: $-1,190
+    Florida: $-3,399
+    Arizona: $-3,428
+    Tennessee: $-5,342
+    Colorado: $-6,528
+    North Carolina: $-7,491
+    Illinois: $-12,608
+    Pennsylvania: $-15,560
+    Ohio: $-16,971
+    Texas: $-25,729
+
+--- 5. Discount vs. Profitability Analysis ---
+  No Discount -> Avg Margin: 34.0% | Profit Rate: 99.4%
+  With Discount -> Avg Margin: -8.3% | Profit Rate: 63.3%
+  INSIGHT: Discounts above 20% consistently lead to losses
+
+--- 6. Shipping Mode Analysis ---
+  Standard Class: 2994.0 orders | Avg 5.0 days | Profit $164,089
+  Second Class: 964.0 orders | Avg 3.2 days | Profit $57,447
+  First Class: 787.0 orders | Avg 2.2 days | Profit $48,970
+  Same Day: 264.0 orders | Avg 0.0 days | Profit $15,892
+
+--- 7. Customer Segment Analysis ---
+  Consumer: 409.0 customers | 2586.0 orders | Revenue $1,161,401 | Profit $134,119
+  Corporate: 236.0 customers | 1514.0 orders | Revenue $706,146 | Profit $91,979
+  Home Office: 148.0 customers | 909.0 orders | Revenue $429,653 | Profit $60,299
+
+--- 8. RFM Customer Segmentation ---
+  Loyal Customers: 254 customers | Avg Revenue $3,869
+  Champions: 124 customers | Avg Revenue $5,221
+  Lost/Hibernating: 117 customers | Avg Revenue $794
+  At Risk: 90 customers | Avg Revenue $1,996
+  New Customers: 67 customers | Avg Revenue $1,043
+  Cant Lose Them: 54 customers | Avg Revenue $3,612
+  Need Attention: 52 customers | Avg Revenue $1,710
+  Potential Loyalists: 35 customers | Avg Revenue $1,157
+
+--- 9. Seasonality Patterns ---
+  Best Month: November ($352,461)
+  Worst Month: February ($59,751)
+
+--- 10. Key Correlations ---
+  Discount-Profit correlation: -0.219 (negative = more discount, less profit)
+  Sales-Profit correlation: 0.479
+
+--- 11. Customer Cohort Analysis ---
+  Cohort retention heatmap generated.
+
+--- 12. Top Products ---
+  Canon imageCLASS 2200 Advanced Copier: Revenue=$61,600 | Profit=$25,200
+  Fellowes PB500 Electric Punch Plastic Comb Binding: Revenue=$27,453 | Profit=$7,753
+  Cisco TelePresence System EX90 Videoconferencing U: Revenue=$22,638 | Profit=$-1,811
+  HON 5400 Series Task Chairs for Big and Tall: Revenue=$21,871 | Profit=$0
+  GBC DocuBind TL300 Electric Binding System: Revenue=$19,823 | Profit=$2,234
+  GBC Ibimaster 500 Manual ProClick Binding System: Revenue=$19,024 | Profit=$761
+  Hewlett Packard LaserJet 3310 Copier: Revenue=$18,840 | Profit=$6,984
+  HP Designjet T520 Inkjet Large Format Printer - 24: Revenue=$18,375 | Profit=$4,095
+  GBC DocuBind P400 Electric Binding System: Revenue=$17,965 | Profit=$-1,878
+  High Speed Automatic Electric Letter Opener: Revenue=$17,030 | Profit=$-262
+
+============================================================
+  EXECUTIVE SUMMARY & RECOMMENDATIONS
+============================================================
+
+1. REVENUE GROWTH: The business shows strong year-over-year growth.
+   Total Revenue: $2,297,201 | Total Profit: $286,397
+
+2. DISCOUNT OPTIMIZATION (Critical Finding):
+   - Orders without discounts have 34% avg margin
+   - Orders with discounts have -8% avg margin
+   - RECOMMENDATION: Cap discounts at 20%. Eliminate 30%+ discounts.
+   - Estimated profit recovery: ~$138,515
+
+3. PRODUCT STRATEGY:
+   - Loss-making sub-categories need review: Tables, Bookcases, Supplies
+   - Technology has highest profit margin; invest in marketing
+   - Office Supplies: high volume, steady profits
+
+4. REGIONAL FOCUS:
+   - Oregon is the biggest loss-making state
+   - Focus growth in West region (highest profit margin)
+
+5. CUSTOMER RETENTION:
+   - 261 customers at risk of churning
+   - Champions (124) drive disproportionate revenue
+   - RECOMMENDATION: Implement loyalty program for Potential Loyalists
